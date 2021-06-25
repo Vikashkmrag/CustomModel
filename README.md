@@ -3,7 +3,7 @@
 
 #Steps:
 
-pip install requirement.txt
+pip install -r requirement.txt
 
 Download Data from below link
 
