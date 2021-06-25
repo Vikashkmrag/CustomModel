@@ -1,7 +1,7 @@
 # CustomModel
 ## Custom Detection model trained on SVHN Dataset to Recognise House
 
-#Steps:
+# Steps:
 
 pip install -r requirement.txt
 
