@@ -22,3 +22,7 @@ Start Training
 For Inference
 
     python predict.py
+
+
+#Google Colab used for training,
+Link: https://colab.research.google.com/drive/1WoTTFc8yNqTW85b7Cfla1g93DmFAuN3N?usp=sharing
