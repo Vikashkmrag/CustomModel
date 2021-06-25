@@ -1,5 +1,5 @@
 # CustomModel
-## Custom Detection moddel trained on SVHN Dataset to Recognise House
+## Custom Detection model trained on SVHN Dataset to Recognise House
 
 #Steps:
 
