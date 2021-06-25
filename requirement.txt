@@ -1,0 +1,8 @@
+opencv-python==4.5.1.48
+numpy==1.19.5
+lxml==4.6.3
+torch torchvision torchaudio
+h5py
+Pillow==8.2.0
+pandas
+scipy
