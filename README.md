@@ -7,9 +7,9 @@ pip install requirement.txt
 
 Download Data from below link
 
-    train.tar.gz http://ufldl.stanford.edu/housenumbers/train.tar.gz
+\ttrain.tar.gz http://ufldl.stanford.edu/housenumbers/train.tar.gz
 
-    test.tar.gz http://ufldl.stanford.edu/housenumbers/test.tar.gz
+\tst.tar.gz http://ufldl.stanford.edu/housenumbers/test.tar.gz
 
 Exract Files
 
